@@ -1,2 +1,4 @@
 # Ghost-video
-this tool download any video in soical media 
+this tool downloads any video on social media Tiktok, Instagram, YouTube, and Facebook.
+
+
