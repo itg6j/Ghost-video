@@ -5,7 +5,7 @@ this tool downloads any video on social media Tiktok, Instagram, YouTube, and Fa
 my account in social media:
 
 
-insta : @itg7j
+insta : @itg76
 
 tiktok : itg6j
 
